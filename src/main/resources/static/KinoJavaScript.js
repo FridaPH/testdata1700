@@ -4,7 +4,8 @@ function validerAntall(antallBilletter) {
     if (!ok) {
         $("#feilAntall").html("Antall må være mellom 1 og 99 (Kun tall)");
         return false;
-    } else {
+    }
+    else {
         $("#feilAntall").html("");
         return true;
     }
