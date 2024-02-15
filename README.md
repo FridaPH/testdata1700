@@ -4,7 +4,7 @@ OsloMet brukernavn: frhur7454
 
 GitHub brukernavn: FridaPH
 
-Github repo URL: https://github.com/FridaPH/Oblig1DATA1700.git 
+Github repo URL: https://github.com/FridaPH/testdata1700.git
 
 Fullt navn: Frida Preus Hurum
 
