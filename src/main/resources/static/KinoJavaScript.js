@@ -2,7 +2,7 @@ function validerAntall(antallBilletter) {
     const regexp = /^[0-9.\-]{1,2}$/;
     const ok = regexp.test(antallBilletter);
     if (!ok) {
-        $("#feilAntall").html("Antall må være mellom 1 og 90 (Kun tall)");
+        $("#feilAntall").html("Antall må være mellom 1 og 99 (Kun tall)");
         return false;
     } else {
         $("#feilAntall").html("");
